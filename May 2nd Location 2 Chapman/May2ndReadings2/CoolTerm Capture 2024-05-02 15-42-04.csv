@@ -1,0 +1,27 @@
+
+Max Values
+4875  8107
+No Change Up
+No Change Dwn
+Integration Time
+0  0
+
+Build File Array with /specdata.csv
+Appending to file: /specdata.csv
+− message appended
+Appending to file: /specdata.csv
+− message appended
+Listing directory: /
+  FILE: cal_down.csv	SIZE: 97
+  FILE: cal_up.csv	SIZE: 98
+  FILE: specdata.csv	SIZE: 5858
+Deleting file: /specdata.csv
+− file deleted
+Listing directory: /
+  FILE: cal_down.csv	SIZE: 97
+  FILE: cal_up.csv	SIZE: 98
+Deleting file: /specdata.csv
+− delete failed
+Listing directory: /
+  FILE: cal_down.csv	SIZE: 97
+  FILE: cal_up.csv	SIZE: 98
